@@ -1,0 +1,26 @@
+- Use ONLY midpoint ellipse algorithm to create a 600 x 600 still image
+- Work in pairs 
+- Draw any picture in a theme of “ILLUSION”
+- Use Java 2D API only
+- Submit through Google Classroom only
+- Submit 1 Java file named “Assignment4_(studentID).java” and the captured image named “Assignment4_(studentID).jpg” or “Assignment4_(studentID).png”
+- Write every member’s name and student ID in your group in Google Classroom submission comment
+- Every “inspired” image must also be referenced in Google Classroom submission comment
+
+- Submit before 23.59 of Monday 12 February 2018
+
+- Scoring criteria
+    - Complete given tasks for 50%
+    - Code review 30%
+        - Completeness of code 15%
+        - Readabilities 5%
+        - Dedication 5%
+        - References 5%
+    - Popular vote 20%
+        - 1st place = 20, 2nd place = 15, 3rd place = 12, 4th place = 10
+        - Semi-final rounders = 5
+        - First rounders = 0
+
+
+score : 80/100
+REF: https://www.insider.com/classic-optical-illusions-2018-1#the-jastrow-illusion-was-seen-in-real-life-with-these-childrens-train-tracks-8
