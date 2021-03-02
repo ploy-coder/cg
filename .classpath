@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="1"/>
-	<classpathentry kind="src" path="2"/>
-	<classpathentry kind="src" path="3"/>
-	<classpathentry kind="src" path="4"/>
-	<classpathentry kind="src" path="5"/>
+	<classpathentry kind="src" path="2D_animation"/>
+	<classpathentry kind="src" path="Bresenhams_algorithm"/>
+	<classpathentry kind="src" path="midpoint_circle_algorithm"/>
+	<classpathentry kind="src" path="midpoint_ellipse_algorithm"/>
+	<classpathentry kind="src" path="Triangles"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
